@@ -21,4 +21,6 @@ This machine learning project analyzes **Amazon customer reviews** using **natur
 - Linear regression models  
 - Pipeline implementation  
 - Data standardization  
-- Model performance metrics  
+- Model performance metrics
+
+![nyfonch50bzmyz7kpzmy](https://github.com/user-attachments/assets/42f296d2-f303-454f-89d0-8913f46d8a44)
